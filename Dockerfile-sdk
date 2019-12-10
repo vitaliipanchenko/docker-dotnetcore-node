@@ -1,5 +1,5 @@
 #https://hub.docker.com/_/microsoft-dotnet-core-sdk/
-FROM mcr.microsoft.com/dotnet/core/sdk:3.0.100-alpine3.10
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1.100-alpine3.10
 
 #https://github.com/nodejs/docker-node/blob/master/12/alpine3.10/Dockerfile
 ENV NODE_VERSION 12.13.1
