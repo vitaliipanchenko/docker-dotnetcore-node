@@ -1,5 +1,5 @@
 #https://hub.docker.com/_/microsoft-dotnet-core-aspnet/
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.0.0-alpine3.10
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1.0-alpine3.10
 
 #https://github.com/nodejs/docker-node/blob/master/12/alpine3.10/Dockerfile
 ENV NODE_VERSION 12.13.1
